@@ -25,7 +25,8 @@ Technologies ;
 
 
 
-*MVVM
+*MVVM (As seen in the image, I created each view in a different package).
+
 
 
 ![Ekran görüntüsü 2024-10-25 163037](https://github.com/user-attachments/assets/1335fbac-83fe-4589-9f49-acab648c916a)
