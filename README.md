@@ -28,5 +28,9 @@ Technologies ;
 *MVVM
 
 
+![Ekran görüntüsü 2024-10-25 163037](https://github.com/user-attachments/assets/1335fbac-83fe-4589-9f49-acab648c916a)
+
+
+
 
 ![Screenshot_20241025_162838](https://github.com/user-attachments/assets/f376f75a-d345-4a3e-8e40-321ca871025f)
